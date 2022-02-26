@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "name": "iPhone",
+      "id": 1,
+      "status": true
+    },
+    {
+      "name": "Samsung",
+      "id": 2,
+      "status": true
+    },
+    {
+      "name": "Oppo",
+      "id": 3,
+      "status": true
+    },
+    {
+      "name": "Xiaomi",
+      "id": 4,
+      "status": true
+    },
+    {
+      "name": "Sony",
+      "id": 5,
+      "status": true
+    },
+    {
+      "name": "Nokia",
+      "id": 6,
+      "status": true
+    },
+    {
+      "name": "demo",
+      "id": "7",
+      "status": true
+    },
+    {
+      "name": "test 1",
+      "id": "8",
+      "status": true
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-95995/Apple-iPhone-13-featured-image-packshot-review.jpg",
+      "price": 25000000
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro",
+      "image": "https://cdn.nguyenkimmall.com/images/thumbnails/696/522/detailed/756/dien-thoai-iphone-13-pro-max-1tb-xam-1.jpg",
+      "price": 30000000
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13 Pro Max",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2021/9/15/637673217819171028_iphone-13-pro-max-bac-1.jpg",
+      "price": 35000000
+    },
+    {
+      "id": 4,
+      "name": "Samsung Note 20 Ultra",
+      "image": "https://images.fpt.shop/unsafe/fit-in/585x390/filters:quality(90):fill(white)/fptshop.com.vn/Uploads/Originals/2020/8/5/637322682441632129_ss-note-20-ultra-gold-1.png",
+      "price": 19000000
+    },
+    {
+      "id": 5,
+      "name": "Samsung s21 Ultra",
+      "image": "https://www.huang-dan.vn/thumbs/products/l/1329929-samsung-galaxy-s21-ultra-5g.jpg",
+      "price": 25000000
+    },
+    {
+      "id": "6",
+      "name": "Samsung note 10+",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/206176/samsung-galaxy-note-10-plus-white-new-600x600.jpg",
+      "price": "8000000"
+    },
+    {
+      "id": "7",
+      "name": "Xiaomi mi 11 ultra",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/235578/xiaomi-mi-11-ultra-600x600-2-600x600.jpg",
+      "price": "20000000"
+    }
+  ]
+}
